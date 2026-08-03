@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Evellin Gusmão</h1>
 <h3 align="center">Quality Assurance Analyst and Production Engineering graduate</h3>
 
-- 🔭 **ISTQB® Foundation Level certified Tester**
+- 🔭 **Process, SLA & Data Support | Quality Assurance & Testing -  ISTQB® Certified**
 
 - 🤝 I’m looking to collaborate on **Quality Assurance Projects**
 
